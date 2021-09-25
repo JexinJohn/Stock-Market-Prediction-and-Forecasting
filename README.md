@@ -10,3 +10,5 @@ The other 3 are individual modules that includes
 -LSTM for prediction
 -Linear Regression for prediction
 -Arima for forecasting
+
+Code written in Jupyter notebook
